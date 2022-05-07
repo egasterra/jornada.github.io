@@ -1,2 +1,2 @@
 # jornada.github.io
-Jornada refeita
+novo Currículo jornada
